@@ -1,1 +1,2 @@
 # Project-
+my project can't show on my virtual or physical device,it keeps saying my API level is 0 on my physical while virtual keeps saying deployment errors. maybe it's there is someone that I didn't configure on the android manifest 
